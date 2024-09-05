@@ -3,4 +3,4 @@ num2 = float(input("Digite o segundo número "))
 
 resultado = num1 + num2
 
-print(resultado)
+print(f"O resultado da soma é: {resultado}")
