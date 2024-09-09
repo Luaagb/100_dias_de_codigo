@@ -40,7 +40,7 @@ while True:
         print("Calculadora encerrada")
         break;
 
-calculadora()
+calculadora()   
 
 
                         
